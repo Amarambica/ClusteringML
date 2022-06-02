@@ -1,0 +1,4 @@
+https://nbviewer.org/github/Amarambica/ClusteringML/blob/main/FedExDay.ipynb
+
+To view the maps use the above link
+nbviewer to view the jupyter notebook
